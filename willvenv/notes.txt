@@ -1,0 +1,27 @@
+https://vincentgarreau.com/particles.js/#default
+
+
+https://www.ponycheckup.com/
+
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
+
+https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html
+
+https://www.amazon.com/gp/product/1491958707/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=wsvincent-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1491958707&linkId=d4c652b834856c410569b5b0eef5727f
+
+https://www.amazon.com/gp/product/0134034287/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=wsvincent-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0134034287&linkId=6c823c0137898e6e7fabfc245f387eaa
+
+https://www.amazon.com/gp/product/1491946008/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&tag=wsvincent-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1491946008&linkId=9d73ed7c4523ffd8f1c2380672de0c3b
+
+https://tutorial.djangogirls.org/en/template_extending/
+
+
+
+
+
+      <h1 class="banner-title">Welcome to worthcoding.net</h1>
+      <p class="lead">My name's Will, and this is my coding blog.  I'm a Python and Javascript focused
+        developer, and I'm looking for work.  <em>Contact me here.</em> Thanks for visiting!  :)
+      </p>
+      <p class="lead"><a href="#" >Continue reading...</a></p>
+   
