@@ -13,14 +13,33 @@
 
       <div class="container">
 
-      <!--our emmet for below is    .item.item${$}*30 -->
+      <!-- our emmet for below is    .item.item${$}*30
       <div class="item menu item1">WorthCoding.net</div>
       <div class="item menu item2">Blog</div>
       <div class="item menu item3">Portfolio</div>
       <div class="item menu item4">About</div>
       <div class="item menu item5">Contact</div>
       <div class="item item6">
-        
+         -->
+
+
+        <header>
+          <div class="nav-left">
+            <h1><a href="/">Django blog</a></h1>
+          </div>
+          <div class="nav-right">
+            <a href="{% url 'post_new' %}">+ New Blog Post</a>
+          </div>
+        </header>
+
+
+
+
+
+
+
+
+
           {% block content %}
           {% endblock %}
 
